@@ -1,11 +1,11 @@
-# CIVION 
-## HUCE Research in Innovation, Science & Engineering
+# CIVION - HUCE Research in Innovation, Science & Engineering
 
-**CIVION** is a scientific research organization at Hanoi University of Civil Engineering (HUCE), focusing on the application of advanced technologies in the fields of **Information Technology**, **Innovation**, and **Engineering Science**. Our goal is to drive technological advancement and contribute to the growth of industries, particularly in the construction and engineering sectors.
+**CIVION** is a scientific research initiative at Hanoi University of Civil Engineering (HUCE), focusing on applying advanced technologies in **Information Technology**, **Innovation**, and **Engineering Science**. This repository serves as a hub for our R&D projects and collaborations.
 
-### Mission
-CIVION aims to research and develop advanced technological solutions, including but not limited to:
-- **AI and Machine Learning** applications in intelligent systems.
-- **Software Development** and tools for automation, data analytics, and forecasting.
-- **Research on Big Data and Cloud Computing** for optimizing industrial and construction processes.
-- **Improvement of Software Tools** for scientific research and technological development.
+## 🚀 Mission
+To research and develop innovative technological solutions that contribute to the engineering and construction industries through:
+
+- 🤖 Artificial Intelligence & Machine Learning applications
+- 💻 Software Development for automation, analytics, and forecasting
+- ☁️ Big Data & Cloud Computing in industrial optimization
+- 🧪 Development of software tools supporting scientific research
